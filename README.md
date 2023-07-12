@@ -8,7 +8,7 @@ This project was created with
 <li><a href='https://create-react-app.dev/'>Create React App</a></li>
 <li><a href='https://redux-toolkit.js.org/'>Redux/redux-toolkit</a></li>
 <li><a href='https://github.com/rt2zz/redux-persist#readme'>Redux-persist</a></li>
-<li><a href='https://emotion.sh/'>@emotion/styled</a></li>
+<li><a href='https://emotion.sh/'>Emotion</a></li>
 <li><a href='https://formik.org/'>formik</a></li>
 <li><a href='https://react-beautiful-dnd.netlify.app/'>Drag and drop</a></li>
 </ul>
